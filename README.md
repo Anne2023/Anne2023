@@ -29,3 +29,4 @@
 ## Últimos projetos realizados:
 
 - [Projeto Final de Semestre](http://127.0.0.1:5500/Pagina%20Inicial/index.html) </br>
+- ![Snake Animation](https://github.com/Anne2023/Anne2023/blob/output/github-contribution-grid-snake.svg)
