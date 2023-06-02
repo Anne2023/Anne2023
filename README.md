@@ -3,6 +3,8 @@
 - 🔭 I’m currently working  com estagiária em uma data center
 - 🌱 I’m currently learning  Java e Pyton
 
+"Programação é o poder de transformar ideias em realidade, criando o futuro através do código."
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/am%C3%A1bile-silva-413597170/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amabiledaianne/)
 [![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/amabiledaianne/)
@@ -24,8 +26,6 @@
 <img aling="center" alt="postgreen" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 </div></br>
-
-"Programação é o poder de transformar ideias em realidade, criando o futuro através do código."
 
 ## Últimos projetos realizados:
 
