@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Amábile Silva ✋🏼
 
-- 🔭 Atualmente, estou trabalhando com um estagiário em uma dataceter."
-- 🌱 Atualmente estou aprendendo Java e Pyton
+- 🔭 I’m currently working with an intern in a data center."
+- 🌱 I’m currently learning  Java e Python
 
 "Programação é o poder de transformar ideias em realidade, criando o futuro através do código."
 
